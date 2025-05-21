@@ -1,8 +1,3 @@
-You
-write a readme file matter for it
-Copilot
-Sure thing! Here’s a README file to guide users through your LinkedIn connection automation Chrome Extension:
-
 LinkedIn Auto Connector Chrome Extension
 Objective
 Create a Chrome Extension using the wxt.dev framework and React to automate connection requests on LinkedIn.
